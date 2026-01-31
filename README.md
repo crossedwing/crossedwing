@@ -25,7 +25,7 @@
 </div>
 <br>
 <div align="center">
-  <img height=300 src="https://cw-github-readme-stats.vercel.app/api/top-langs?username=crossedwing&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Crossedwing's Most Used Languages" />
+  <img height=300 src="https://cw-github-readme-stats.vercel.app/api/top-langs?username=crossedwing&theme=transparent&layout=donut&hide=css&border_radius=10&show_icons=true&locale=en" alt="Crossedwing's Most Used Languages" />
 </div>
 
 <hr>
