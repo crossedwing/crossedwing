@@ -1,6 +1,6 @@
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://komarev.com/ghpvc/?username=crossedwing" alt="Visitor's Count" width=50 />
+  <img src="https://komarev.com/ghpvc/?username=crossedwing" alt="Visitor's Count" width=250 />
 </div>
 
 <!--
