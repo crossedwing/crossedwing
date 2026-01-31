@@ -1,6 +1,9 @@
 ## Visitor count
 
-![Visitor Count](https://profile-counter.glitch.me/crossedwing/count.svg)
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/crossedwing/count.svg" alt="Visitor's Count" />
+</div>
 
 <!--
 **crossedwing/crossedwing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
