@@ -5,6 +5,18 @@
 
 <img src="https://github.com/crossedwing/crossedwing/blob/main/git logo.png" alt="Banner of crossedwing">
 
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,postgres,pandas" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,postman,redis" />
+</p>
+
+<hr>
+
+
 <!--
 **crossedwing/crossedwing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
