@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=crossedwing" alt="Visitor's Count" width=250 />
 </div>
 
-<img src="https://github.com/crossedwing/crossedwing/blob/main/software-developer.png" alt="Banner of crossedwing">
+<img src="https://github.com/crossedwing/crossedwing/blob/main/git logo.png" alt="Banner of crossedwing">
 
 <!--
 **crossedwing/crossedwing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
