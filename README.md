@@ -23,7 +23,8 @@
 <div align="center">
   <img height=300 src="https://cw-github-readme-stats.vercel.app/api?username=crossedwing&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Crossedwing's GitHub Stats" />
 </div>
-<div ailgn="center">
+<br>
+<div align="center">
   <img height=300 src="https://cw-github-readme-stats.vercel.app/api/top-langs?username=crossedwing&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Crossedwing's Most Used Languages" />
 </div>
 
