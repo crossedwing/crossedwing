@@ -1,6 +1,9 @@
-<div align="center"> 
+<div align="center">
   <p>Visitor count</p>
-  <img src="https://komarev.com/ghpvc/?username=crossedwing" alt="Visitor's Count" width=250 />
+  <img
+    src="https://count.getloli.com/@crossedwing?name=crossedwing&theme=booru-jaypee&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto"
+    alt="Visitor Count"
+  />
 </div>
 
 <img src="https://github.com/crossedwing/crossedwing/blob/main/git logo.png" alt="Banner of crossedwing">
